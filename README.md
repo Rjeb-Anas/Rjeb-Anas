@@ -1,45 +1,139 @@
-# Hi, I'm Anass
 
-**Cybersecurity Student | Web Developer | Networking Enthusiast**
+<h1 align="center">ANASS RJEB</h1>
 
-Computer Science student at **FST Fès, Morocco**, passionate about cybersecurity, software development and network technologies.
+<h3 align="center">
+  Cybersecurity • Web Development • Networking
+</h3>
 
----
-
-### About Me
-
-- Studying Cybersecurity at FST Fès.
-- Interested in Web Development and Network Security.
-- Building practical projects and exploring new technologies.
-- Always learning and improving my technical skills.
-
-### Tech Stack
-
-**Languages**
-- PHP, JavaScript, Python, C++
-
-**Web Development**
-- HTML, CSS, React, WordPress
-
-**Database & Tools**
-- MySQL, Git, GitHub, Linux, Cisco Packet Tracer
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [Portfolio](https://rjeb-anas.github.io/Portfolio/) | Personal developer portfolio |
-| [ClubConnect](https://github.com/Rjeb-Anas/ClubConnect) | Web development project |
-| [Studora](https://studora.site.je/) | Scientific conference portal built with WordPress |
-| VLAN-STP Simulator | Interactive network simulation |
-| Protocol Explorer | Interactive networking concepts |
-| Patrimoine | Cultural heritage platform |
-
-### Connect With Me
-
-- **LinkedIn:** [Anass Rjeb](https://www.linkedin.com/in/anass-rjeb-3346523b6/)
-- **Portfolio:** [rjeb-anas.github.io/Portfolio](https://rjeb-anas.github.io/Portfolio/)
+<p align="center">
+  <a href="https://rjeb-anas.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anass-rjeb-3346523b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
 
 ---
 
-*Learning, building and exploring technology.*
+<h2 align="center">FEATURED PROJECTS</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Portfolio</h3>
+
+<p align="center">
+Personal portfolio showcasing my work and projects.
+</p>
+
+<p align="center">
+<a href="https://rjeb-anas.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00B8D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">ClubConnect</h3>
+
+<p align="center">
+A web development project for club and community management.
+</p>
+
+<p align="center">
+<a href="https://github.com/Rjeb-Anas/ClubConnect">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00B8D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Studora</h3>
+
+<p align="center">
+Scientific conference portal built with WordPress.
+</p>
+
+<p align="center">
+<a href="https://studora.site.je/">
+<img src="https://img.shields.io/badge/VISIT_WEBSITE-00B8D9?style=for-the-badge&logo=wordpress&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">VLAN-STP Simulator</h3>
+
+<p align="center">
+Interactive simulation of VLAN and Spanning Tree Protocol.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NETWORK_SIMULATION-00B8D9?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Protocol Explorer</h3>
+
+<p align="center">
+Interactive platform for exploring network protocols.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NETWORKING-00B8D9?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Patrimoine</h3>
+
+<p align="center">
+A web platform dedicated to cultural heritage and monuments.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00B8D9?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">TECHNOLOGIES</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,cpp,mysql,linux,git,github,wordpress" />
+</p>
+
+---
+
+<h2 align="center">CONNECT WITH ME</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anass-rjeb-3346523b6/">
+<img src="https://img.shields.io/badge/LinkedIn-Anass_Rjeb-blue?style=flat-square&logo=linkedin" />
+</a>
+<a href="https://rjeb-anas.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=googlechrome" />
+</a>
+</p>
+
+<p align="center">
+<i>Building, learning and exploring technology.</i>
+</p>
