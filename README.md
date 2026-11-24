@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anass
 
-<!--
-**Rjeb-Anas/Rjeb-Anas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Web Developer | Networking Enthusiast
 
-Here are some ideas to get you started:
+Computer Science student at **FST Fès, Morocco**, interested in cybersecurity, web development and network technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Languages:** PHP, JavaScript, Python, C++
+- **Frontend:** HTML, CSS, React
+- **Backend:** PHP, MySQL
+- **Tools:** Git, GitHub, Linux, Cisco Packet Tracer
+
+### Featured Projects
+
+- **Portfolio:** Personal developer portfolio.
+- **ClubConnect:** Web development project.
+- **VLAN-STP Simulator:** Network simulation project.
+- **Protocol Explorer:** Interactive networking project.
+- **Patrimoine:** Cultural heritage platform.
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/anass-rjeb-3346523b6/)
+- [Portfolio](https://rjeb-anas.github.io/Portfolio/)
