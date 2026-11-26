@@ -1,110 +1,193 @@
-# Hi, I'm Anass Rjeb
+ <div align="center">
 
-### Cybersecurity Student | Web Developer | IT Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:0E7490,100:06B6D4&text=ANASS%20RJEB&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=CYBERSECURITY%20%7C%20WEB%20DEVELOPMENT%20%7C%20NETWORKING&descSize=14&descAlignY=65&animation=fadeIn" width="100%" />
 
-I'm a Computer Science graduate currently pursuing a Bachelor's degree in **Cybersecurity** at the Faculty of Sciences and Techniques of Fez (FST Fès), Morocco.
+<br/>
 
-I'm interested in cybersecurity, web development, computer networks, and building practical technology projects.
+<a href="https://github.com/Rjeb-Anas">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Web+Developer;Computer+Networks+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Rjeb-Anas">
+  <img src="https://img.shields.io/badge/GitHub-Rjeb--Anas-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anass-rjeb-3346523b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Anass%20Rjeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://rjeb-anas.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Based in Fès, Morocco · Open to learning and professional opportunities**
+
+</div>
 
 ---
 
-## About Me
+## `01` — About Me
 
-- 🎓 Bachelor's student in Cybersecurity at **FST Fès**
-- 💻 Background in Computer Science
+<img align="right" width="145" src="https://github.com/user-attachments/assets/placeholder" alt="Cybersecurity illustration" />
+
+I'm **Anass Rjeb**, a Cybersecurity student at the Faculty of Sciences and Techniques of Fez (FST Fès), Morocco.
+
+With a background in Computer Science, I enjoy exploring how technology works, developing web applications, and understanding how to secure digital systems.
+
+- 🎓 Bachelor's student in Cybersecurity — FST Fès
+- 💻 DEUST in Computer Science — Mention Bien
 - 🔐 Interested in Cybersecurity and Network Security
 - 🌐 Building web applications and interactive projects
-- 📍 Based in Fès, Morocco
-- 🚀 Always learning and exploring new technologies
+- 📍 Fès, Morocco
+
+<br clear="right"/>
+
+## `02` — Technology Stack
+
+<div align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php&theme=dark" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,windows&theme=dark" />
+
+</div>
+
+### Areas of Interest
+
+| Domain | Technologies / Topics |
+|:---|:---|
+| Cybersecurity | Security fundamentals, access control, vulnerability analysis |
+| Networking | IPv4, VLAN, STP, Routing, Cisco Packet Tracer |
+| Web Development | HTML, CSS, JavaScript, React, PHP |
+| Database | MySQL, SQL, Database Design |
+| Tools | Git, GitHub, Linux, VS Code, XAMPP |
 
 ---
 
-## Tech Stack
+## `03` — Featured Projects
 
-**Languages & Web Development**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<a href="https://github.com/Rjeb-Anas/stp-simulator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rjeb-Anas&repo=stp-simulator&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Rjeb-Anas/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rjeb-Anas&repo=Portfolio&theme=tokyonight&hide_border=true" />
+</a>
 
-**Databases & Tools**
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### Other Projects
 
-**Areas of Interest**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Cybersecurity fundamentals
-- Network configuration and administration
-- VLAN and STP
-- Web application development
-- Database management
+### 🏛️ Patrimoine
 
----
+A platform dedicated to cultural and historical heritage, with an administration interface for managing content.
 
-## Featured Projects
+**Stack:** PHP · MySQL · JavaScript · Tailwind CSS
 
-### 1. STP Simulator
-An interactive presentation and simulation project focused on Spanning Tree Protocol (STP), network topology, and switching concepts.
+[↗ Visit Website](https://patrimoine.site.je/)
 
-- **Technologies:** React, Vite, JavaScript, Tailwind CSS
-- **Repository:** [STP Simulator](https://github.com/Rjeb-Anas/stp-simulator)
+</td>
+<td width="50%" valign="top">
 
-### 2. Patrimoine
-A web platform dedicated to cultural and historical heritage, with an administration interface for managing platform content.
+### 🎓 ESC — Electronic Science Conference
 
-- **Technologies:** PHP, MySQL, JavaScript, Tailwind CSS
-- **Website:** [patrimoine.site.je](https://patrimoine.site.je/)
+A conference website for presenting scientific events, speakers, sessions and information.
 
-### 3. ESC – Electronic Science Conference
-A conference website designed to present scientific events, speakers, sessions, and conference information.
+**Stack:** WordPress · Elementor · Smart Slider 3
 
-- **Technologies:** WordPress, Elementor, Smart Slider 3
-- **Website:** [studora.site.je](https://studora.site.je/)
+[↗ Visit Website](https://studora.site.je/)
 
-### 4. ClubConnect
-A web project focused on connecting users with clubs and facilitating access to club-related information.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- **Repository:** [ClubConnect](https://github.com/Rjeb-Anas/ClubConnect)
+### 🤝 ClubConnect
 
-### 5. Personal Portfolio
-My personal portfolio showcasing my background, technical skills, and projects.
+A project focused on connecting users with clubs and facilitating access to club-related information.
 
-- **Technologies:** React, Vite, Tailwind CSS, Framer Motion
-- **Live Website:** [View Portfolio](https://rjeb-anas.github.io/Portfolio/)
-- **Repository:** [Portfolio](https://github.com/Rjeb-Anas/Portfolio)
+[↗ GitHub Repository](https://github.com/Rjeb-Anas/ClubConnect)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Education
+### 🌐 Personal Portfolio
 
-| Degree | Institution | Period | Result |
-|---|---|---|---|
-| Bachelor's Degree in Cybersecurity | FST Fès | 2026–2027 | In progress |
-| DEUST in Computer Science | FST Fès | 2024–2026 | Mention Bien |
-| Baccalaureate | Lycée Mazarin | 2023–2024 | Mention Bien |
+A responsive portfolio showcasing my background, technical skills and development projects.
+
+**Stack:** React · Vite · Tailwind CSS · Framer Motion
+
+[↗ Live Portfolio](https://rjeb-anas.github.io/Portfolio/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## `04` — Education
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rjeb-Anas&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjeb-Anas&layout=compact&theme=github_dark&hide_border=true)
+| Degree | Institution | Period | Status |
+|:---|:---|:---:|:---:|
+| **Bachelor's in Cybersecurity** | FST Fès | 2026–2027 | In Progress |
+| **DEUST in Computer Science** | FST Fès | 2024–2026 | Mention Bien |
+| **Baccalaureate** | Lycée Mazarin | 2023–2024 | Mention Bien |
+
+</div>
 
 ---
 
-## Connect With Me
+## `05` — GitHub Analytics
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rjeb--Anas-181717?style=for-the-badge&logo=github)](https://github.com/Rjeb-Anas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anass_Rjeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-rjeb-3346523b6/)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rjeb-Anas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjeb-Anas&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rjeb-Anas&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-*“Learning by building, improving through practice.”*
+## `06` — Let's Connect
+
+<div align="center">
+
+I'm always interested in technology, collaboration, and opportunities to learn and grow.
+
+<br/>
+
+<a href="https://github.com/Rjeb-Anas">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anass-rjeb-3346523b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://rjeb-anas.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building. Learning. Securing.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%" />
+
+</div>
